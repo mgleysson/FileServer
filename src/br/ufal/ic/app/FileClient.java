@@ -56,7 +56,7 @@ public class FileClient {
 
 			System.out.println("\nChoose one option: \n");
 			System.out.println("1. Send file.");
-			System.out.println("2. Recieve file.");
+			System.out.println("2. Receive file.");
 			System.out.println("3. Close connection.");
 			opt = read.nextInt();
 
